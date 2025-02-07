@@ -17,8 +17,23 @@ This project aims to develop a hierarchical classification system for tweets, ad
   - Emotional tweets (general emotions unrelated to COVID-19).
   - Non-emotional tweets (neutral or generic discussions).
 
+### 3: Emotion Categorization 
+- Classify emotional tweets into six primary emotion categories: 
+ - Anger 
+ - Disgust 
+ - Fear 
+ - Happiness 
+ - Surprise 
+ - Sadness
+   
+### 4: Sadness → Depression vs. Non-Depression Classification 
+- Further classify sadness-related tweets into: 
+ -  Depression-related tweets (tweets indicating severe distress, hopelessness, 
+suicidal tendencies). 
+ - Non-depression sadness tweets (general sadness, disappointment, grief).
+
 ## Dataset Labelling
 
 Below diagram represents the labelling of the dataset for the hackathon:
 
-![Screenshot 2025-02-07 094605](https://github.com/user-attachments/assets/cf93d443-3942-42fe-ba7d-363983ed6b8a)
+![Screenshot 2025-02-07 140429](https://github.com/user-attachments/assets/3e0c9dd7-5238-4ac8-9a51-25e8cb21cfa7)
